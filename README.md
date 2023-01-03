@@ -9,10 +9,4 @@ com.tencent.mm --> io.github.dingzheng2017
 ### change version:
 - **stable(mavenCentral):** 1.2.21 --> 1.2.22
 
-```
-maven {
-    url "https://s01.oss.sonatype.org/content/repositories/snapshots/"
-}
-```
-
 
